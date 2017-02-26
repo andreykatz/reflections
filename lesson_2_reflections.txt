@@ -7,3 +7,9 @@ How is the staging area different from the working directory and the repository?
 
   Probably (?) the changes made in the staging area are tracked. I am not sure what is the added value, except that 
 it allows committing files one by one, rather than alltogether.    
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+   Move to the staging area only files that has to do with each
+   logical change, not all the files that has been changed.  
