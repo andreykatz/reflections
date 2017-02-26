@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+  The command shows all the differences between the two versions. Assuming that the first version perfectly compiled, this reduces the searches only to the differences between the versions, that can summarized in a few line. This makes the search much narrower.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+  It can help reviving the old parts of the code, which have been previously considered useless or debug the new version. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+  The main pro is that you decide by yourself what is the logically accomplished not too big step that you would like to safe. 
+The main pro for an automatozed system -- it does not allow you forget. On the other hand the automatic saves will not 
+necessarily record the logical steps, and the differences between the different versions might be either to minor or too big. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+   Most likely because systems like git are designed for complicated coding, where it makes sense to split the project into a 
+bunch of interdependent files. Google docs is designed for different purposes: most of the documents there are just fine as
+stand-alone. 
+
+How can you use the commands git log and git diff to view the history of files?
+ 
+  Git log gives the summary of commits with the verbal explanation of each. These explanations can be pretty terse. Git diff shows all the detailed differences between the versions row by row. Note that in order to see the summary (how 
+many changes have been made) it is usefull to take advantage of git diff -- stat ....
+
+How might using version control make you more confident to make changes that could break something?
+
+   One can always easily return back to the vesrion that did nit have this bug, so nothing is lost. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   Most likely to keep track of my python projects.  
+

@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    The .git file is produced. The command enables a repository in this particular folder, but it does not add anythin 
+by default into this repository.    
