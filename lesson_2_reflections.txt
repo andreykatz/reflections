@@ -1,4 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
     The .git file is produced. The command enables a repository in this particular folder, but it does not add anythin 
-by default into this repository.    
+by default into this repository.  
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  Probably (?) the changes made in the staging area are tracked. I am not sure what is the added value, except that 
+it allows committing files one by one, rather than alltogether.    
