@@ -27,3 +27,11 @@ How do the diagrams help you visualize the branch structure?
     The diagrams simply show the structure of the repository,
     including the branches, where do they come from and who are their
     parents. 
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do? 
+
+    The result will include all the non-contradictory edits made
+    separately on the two previously independent branches. 
+
+
