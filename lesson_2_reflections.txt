@@ -13,3 +13,11 @@ logical change?
 
    Move to the staging area only files that has to do with each
    logical change, not all the files that has been changed.  
+
+What are some situations when branches would be hepful in keeping your
+history organized? How would branches help?
+
+    The main way I would use branches: if I have a working code, that
+    might be OK, but I have an idea to improve it by changing it
+    sigbificantly. I am not sure whether the idea will work or
+    not. This is an iedeal case the branches can help. 
