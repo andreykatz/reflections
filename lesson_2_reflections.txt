@@ -21,3 +21,9 @@ history organized? How would branches help?
     might be OK, but I have an idea to improve it by changing it
     sigbificantly. I am not sure whether the idea will work or
     not. This is an iedeal case the branches can help. 
+
+How do the diagrams help you visualize the branch structure?
+
+    The diagrams simply show the structure of the repository,
+    including the branches, where do they come from and who are their
+    parents. 
