@@ -34,4 +34,11 @@ represent it in the diagram the way we do?
     The result will include all the non-contradictory edits made
     separately on the two previously independent branches. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually? 
+ 
+   Automatic is always a "minimal action" path, but it will not
+   neccesarilly do what is right. Manual is more precise (I am doing
+   what I want to do), but also more laborous. 
+
 
